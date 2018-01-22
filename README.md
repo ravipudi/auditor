@@ -6,8 +6,8 @@ auditor.py snap PATH [--filename NAME]
 auditor.py diff SNAP SNAP  
 
 ### Description
-`autidor.py` when called with `snap` argument, saves the state of the file system PATH as a json SNAP file which contains a list of named entries with a metadata for each file entry.  
-`autidor.py` when called with `diff` argument, compares two SNAP files and reports the changes.
+`auditor.py` when called with `snap` argument, saves the state of the file system PATH as a json SNAP file which contains a list of named entries with a metadata for each file entry.  
+`auditor.py` when called with `diff` argument, compares two SNAP files and reports the changes.
 
 #### snap mode example
 
